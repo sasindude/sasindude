@@ -16,7 +16,7 @@
 
  📍 **Western Province, Sri Lanka**
  
- ⚡ Fun fact **I work across multiple organizations as an independent developer!**
+
 
 </div>
  
