@@ -2,8 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+There!+👋;I'm+Sasindu+Fernando!;AI%2FML+Developer+🤖;Full+Stack+Engineer+💻;" />
 </h1>
 
-<h3 align="center">🚀 Independent Developer | On the way to KaviaAI Certified Engineer 🎯</h3>
-
 <br/>
 
 <div align="center">
