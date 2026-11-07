@@ -27,11 +27,11 @@ I build and run production systems end to end, from Figma designs to the Linux s
 
 | | |
 |---|---|
-| 🛒 **E-commerce** | Online food ordering for a 2-city restaurant (~50 orders/day) and a cosmetics store (~150 orders/month), with payment gateways integrated |
+| 🛒 **E-commerce** | Online food ordering for a multi branch restaurant, cosmetics store and a leading leather product seller with payment gateways integrated |
 | 📱 **Mobile** | Flutter apps for Android &amp; iOS, live on both app stores |
-| 📊 **Internal tools** | Accounting system for a finance team, with daily closing and encrypted daily backups. It replaced Excel and paper |
-| 🤖 **Automation** | WhatsApp + web ordering chatbot that replaced manual order replies |
-| 🖥️ **Infrastructure** | 11 production apps on Linux VPS: Docker, PM2, Nginx, SSL, CI/CD |
+| 📊 **Internal tools** | Forward engineered accounting system for a finance team, with daily closing and encrypted daily backups replacing Excel and paper based entries. |
+| 🤖 **Automation** | WhatsApp + web ordering AI chatbot that replaced manual order replies |
+| 🖥️ **Infrastructure** | 20+ production apps on Linux VPS: Docker, PM2, Nginx, SSL, CI/CD, AWS |
 
 ---
 
